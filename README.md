@@ -45,6 +45,10 @@ This Python script performs a Kolmogorov-Smirnov (KS) test to evaluate whether a
 # Kolmogorov-Smirnov Test and ECDF Comparison
 
 This Python script performs a **Kolmogorov-Smirnov (KS) test** to compare two datasets and visualizes their empirical cumulative distribution functions (ECDFs).
+
+# Statistical Analysis and Tests
+
+This Python script performs several statistical analyses, including quantile calculation, Wilcoxon signed-rank test, and binomial test calculations. Additionally, it demonstrates how to use `itertools` for repeating elements.
  
 ## License
 
